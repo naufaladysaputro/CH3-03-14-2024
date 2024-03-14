@@ -1,0 +1,281 @@
+[
+    {
+        "_id": "65f1af28e730eca01b8a3601",
+        "index": 1,
+        "guid": "777d1fe8-b64e-445a-b828-a24d6e38f817",
+        "isActive": true,
+        "balance": "$2,533.24",
+        "picture": "http://placehold.it/32x32",
+        "age": 34,
+        "eyeColor": "green",
+        "name": "Noble Macias",
+        "gender": "male",
+        "company": "BOVIS",
+        "email": "noblemacias@bovis.com",
+        "phone": "+1 (820) 525-3044",
+        "address": "395 Martense Street, Garfield, Michigan, 7448",
+        "about": "In ullamco adipisicing culpa sint. Aute culpa deserunt duis culpa. Minim nulla nisi non amet anim nulla ea sit ea aute. Culpa id ullamco tempor et nisi incididunt irure eiusmod nostrud eiusmod quis sunt cupidatat deserunt.\r\n",
+        "registered": "2022-10-21T10:41:02 -07:00",
+        "latitude": 64.63768,
+        "longitude": 109.803749,
+        "tags": [
+            "occaecat",
+            "non",
+            "eu",
+            "velit",
+            "veniam",
+            "ipsum",
+            "proident"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Hanson Harding"
+            },
+            {
+                "id": 1,
+                "name": "Dianne Galloway"
+            },
+            {
+                "id": 2,
+                "name": "Flowers Olsen"
+            }
+        ],
+        "greeting": "Hello, Noble Macias! You have 2 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "65f1af2858b3f238dbcf4c48",
+        "index": 2,
+        "guid": "487d8c93-5032-4b5a-abab-9537d669a91d",
+        "isActive": true,
+        "balance": "$1,587.78",
+        "picture": "http://placehold.it/32x32",
+        "age": 37,
+        "eyeColor": "blue",
+        "name": "Flores Black",
+        "gender": "male",
+        "company": "BRAINQUIL",
+        "email": "floresblack@brainquil.com",
+        "phone": "+1 (911) 512-3748",
+        "address": "847 Wyona Street, Romeville, Texas, 9388",
+        "about": "Officia eu et reprehenderit do. Sunt minim ullamco eu duis nulla non in magna incididunt consectetur consequat ad nostrud et. Exercitation laboris anim deserunt excepteur sint nisi qui labore mollit eiusmod nisi. Occaecat occaecat pariatur labore incididunt consectetur ex ea dolor amet. Anim voluptate commodo cupidatat consectetur deserunt id sit et amet quis est incididunt do consectetur.\r\n",
+        "registered": "2015-11-19T01:35:35 -07:00",
+        "latitude": -56.868601,
+        "longitude": -168.242097,
+        "tags": [
+            "labore",
+            "tempor",
+            "incididunt",
+            "sunt",
+            "incididunt",
+            "adipisicing",
+            "laborum"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Martha Gould"
+            },
+            {
+                "id": 1,
+                "name": "Rivers Kent"
+            },
+            {
+                "id": 2,
+                "name": "Judith Rush"
+            }
+        ],
+        "greeting": "Hello, Flores Black! You have 8 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "65f1af280e1b0022cb3e933c",
+        "index": 3,
+        "guid": "9c2226e6-da18-43c1-aa33-7aae509318e5",
+        "isActive": true,
+        "balance": "$1,659.98",
+        "picture": "http://placehold.it/32x32",
+        "age": 39,
+        "eyeColor": "blue",
+        "name": "Bette Bond",
+        "gender": "female",
+        "company": "BEADZZA",
+        "email": "bettebond@beadzza.com",
+        "phone": "+1 (839) 459-2500",
+        "address": "948 Sumner Place, Bethany, American Samoa, 1848",
+        "about": "Laborum cillum dolor ea ut tempor nulla esse ipsum id fugiat. Ad eu velit adipisicing tempor velit velit. Elit consectetur eiusmod ea aute cillum non culpa enim. Occaecat aliquip ad exercitation veniam magna sit cupidatat mollit. Nulla dolor aliquip esse cillum.\r\n",
+        "registered": "2018-11-13T07:47:06 -07:00",
+        "latitude": -39.448384,
+        "longitude": -123.576362,
+        "tags": [
+            "culpa",
+            "do",
+            "amet",
+            "quis",
+            "aliquip",
+            "velit",
+            "qui"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Walsh Sanchez"
+            },
+            {
+                "id": 1,
+                "name": "Casey Walls"
+            },
+            {
+                "id": 2,
+                "name": "Kitty Benton"
+            }
+        ],
+        "greeting": "Hello, Bette Bond! You have 1 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "65f1af28b119847d557ccc81",
+        "index": 4,
+        "guid": "143ada55-5f50-4ea5-96f7-ca2913407819",
+        "isActive": false,
+        "balance": "$1,035.33",
+        "picture": "http://placehold.it/32x32",
+        "age": 20,
+        "eyeColor": "green",
+        "name": "Bowen Cervantes",
+        "gender": "male",
+        "company": "EARWAX",
+        "email": "bowencervantes@earwax.com",
+        "phone": "+1 (868) 421-3367",
+        "address": "457 Applegate Court, Nogal, Utah, 6645",
+        "about": "Excepteur eu nisi quis amet ullamco minim et labore aute. Sit laborum non ullamco consequat. Nulla ea elit velit deserunt do fugiat ipsum proident consectetur irure dolore. Consectetur est consequat non cillum. Laborum deserunt esse incididunt mollit. Occaecat reprehenderit enim fugiat non. Magna dolor sit consequat Lorem proident irure adipisicing ipsum aliquip culpa enim consequat deserunt.\r\n",
+        "registered": "2022-12-26T05:58:02 -07:00",
+        "latitude": -17.15417,
+        "longitude": 70.601372,
+        "tags": [
+            "do",
+            "commodo",
+            "nisi",
+            "laboris",
+            "minim",
+            "occaecat",
+            "velit"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Mavis Hyde"
+            },
+            {
+                "id": 1,
+                "name": "Alyce Foley"
+            },
+            {
+                "id": 2,
+                "name": "Barr Oneal"
+            }
+        ],
+        "greeting": "Hello, Bowen Cervantes! You have 3 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "65f1af28d350d66b782bfcfa",
+        "index": 5,
+        "guid": "dcbe62f3-631b-45b5-b92f-e42aaf3b5e10",
+        "isActive": true,
+        "balance": "$1,361.02",
+        "picture": "http://placehold.it/32x32",
+        "age": 25,
+        "eyeColor": "green",
+        "name": "Haley Doyle",
+        "gender": "female",
+        "company": "MAGNINA",
+        "email": "haleydoyle@magnina.com",
+        "phone": "+1 (837) 600-2684",
+        "address": "551 Langham Street, Elliston, Oklahoma, 5443",
+        "about": "Officia consequat enim pariatur voluptate ex aliquip minim consectetur. Occaecat irure est tempor amet in nisi eiusmod in veniam veniam nisi. Officia reprehenderit dolor sit pariatur laboris. Commodo sit tempor aliquip consectetur nostrud magna. Anim consequat quis sit incididunt reprehenderit mollit ut magna aute aliqua est.\r\n",
+        "registered": "2016-05-21T10:57:01 -07:00",
+        "latitude": 29.978448,
+        "longitude": -83.324655,
+        "tags": [
+            "quis",
+            "cillum",
+            "est",
+            "non",
+            "dolor",
+            "quis",
+            "dolore"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Whitney Cooley"
+            },
+            {
+                "id": 1,
+                "name": "Acosta Villarreal"
+            },
+            {
+                "id": 2,
+                "name": "Myrtle Santos"
+            }
+        ],
+        "greeting": "Hello, Haley Doyle! You have 7 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "65f1af28cd3225f4190866a6",
+        "index": 6,
+        "guid": "7acd61bb-c4e6-4e6b-bf23-66d34bbd9fe1",
+        "isActive": true,
+        "balance": "$3,389.44",
+        "picture": "http://placehold.it/32x32",
+        "age": 29,
+        "eyeColor": "green",
+        "name": "Phelps Bryant",
+        "gender": "male",
+        "company": "RODEOMAD",
+        "email": "phelpsbryant@rodeomad.com",
+        "phone": "+1 (925) 441-3959",
+        "address": "302 Seacoast Terrace, Manchester, Tennessee, 6163",
+        "about": "Magna commodo nostrud sint ad. Consequat qui ut fugiat quis Lorem. Occaecat voluptate dolore sunt irure incididunt.\r\n",
+        "registered": "2017-03-03T08:30:56 -07:00",
+        "latitude": -23.397929,
+        "longitude": -153.188854,
+        "tags": [
+            "laborum",
+            "exercitation",
+            "id",
+            "id",
+            "id",
+            "cillum",
+            "est"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "James Rowland"
+            },
+            {
+                "id": 1,
+                "name": "Horn Meadows"
+            },
+            {
+                "id": 2,
+                "name": "Schneider Ball"
+            }
+        ],
+        "greeting": "Hello, Phelps Bryant! You have 1 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+        "name": "naufal",
+        "status": "ganteng"
+    },
+    {}
+]
